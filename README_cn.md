@@ -1,49 +1,42 @@
-# SENZ001 Rotation Sensor
+# SENZ001 模拟多圈旋转角度传感器
 
-
-### Introduction
+### 产品介绍
 
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001.jpg "SENZ001") 
 
-> SENZ001 Rotation Sensor is arduino compatible multi-ring rotation analog sensor. 
-It is based on multi-turn precision potentiometer. It can rotate upto 10 laps. 
-If the sensor input 5V voltage power, then the 5000mV will be divided into 3600 portions(10 laps). 
-When you adjust the rotation of the 3 degrees and then the voltage will have 2mV change. 
-So you can accurately achieve the effect of voltage with small changes. 
-And it is easy to be connected to Arduino. 
+> SENZ001 模拟多圈旋转角度传感器是一个Arduino兼容的多圈高精度模拟角度传感器。它基于一个高精度的电位器，可旋转十圈,如果给此传感器输入5V电压供电，这样就是5000mV被分成了3600份（10圈）.这样你旋转3度就可以调节2mV的电压变化,这样就可以精确地实现角度微小变化的互动效果。同时它可以很方便的通过传感器扩展版连接到您的Arduino板。
+ 
+### 技术参数
 
-### Specification
+* Arduino兼容
+* 电源要求：+3.3-5V DC
+* 外形尺寸：50x22mm
+* 信号类型：模拟信号
+* 接口模式：PH2.0-3
+* 转动角度：3600°
+* 重量：20g
 
-* Arduino compatible
-* Operating Voltage: +3.3-5V DC
-* Signal Type: analog signal
-* Size: 50x22mm
-* Rotation Angle: 3600 degrees
-* Weight: 20g
-
-### Pin Definition
+### 引脚说明
 
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_pin.png "pin")  
 
-### Tutorial
+### 使用教程
 
-> In this tutorial we rotate the Analog Rotation Sensor to output the analog voltage value in the serial port.
+> 在这个教程中我们旋转模拟角度传感器即可在串口中输出此时的模拟角度传感器的模拟电压值。 
 
-#### Requirements
+#### 准备
 
-* Hardware
+* 硬件
     * UNO x1
-    * Analog Rotation Sensor x1
-* Software
-    Arduino IDE V1.6.5 [Click to Download Arduino IDE from Arduino®](https://www.arduino.cc/en/Main/Software)
+    * 模拟角度传感器 x1
+* 软件
+    Arduino IDE [Click to Download Arduino IDE from Arduino®](https://www.arduino.cc/en/Main/Software)
 
-
-#### Connection Diagram
+#### 接线图
 
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_Connection.png "Connection") 
 
-#### Sample Code
-
+#### 样例代码
 
     const int analogInPin = A0;         // Analog input pin that the potentiometer is attached to
     const int analogOutPin = 9;         // Analog output pin that the LED is attached to
@@ -77,11 +70,9 @@ And it is easy to be connected to Arduino.
     }
 
 
-
-### Dimension Diagram
+### 结构图
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_Dimension.png "Dimension") 
 
 
 
-### More
-
+### 更多

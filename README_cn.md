@@ -1,10 +1,10 @@
 # SENZ001 模拟多圈旋转角度传感器
 
-###### Translation
+###### 翻译
 
-> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README.md)
+> `英文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README.md).
 
-> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README_cn.md)
+> `中文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README_cn.md).
 
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001.jpg "SENZ001") 
 

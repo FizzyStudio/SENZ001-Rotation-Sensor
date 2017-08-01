@@ -1,5 +1,5 @@
 # SENZ001-Rotation-Sensor
-====
+
 
 Introduction
 

@@ -3,12 +3,12 @@
 
 ### Introduction
 
-SENZ001 Rotation Sensor is arduino compatible multi-ring rotation analog sensor. 
+> SENZ001 Rotation Sensor is arduino compatible multi-ring rotation analog sensor. 
 It is based on multi-turn precision potentiometer. It can rotate upto 10 laps. 
 If the sensor input 5V voltage power, then the 5000mV will be divided into 3600 portions(10 laps). 
 When you adjust the rotation of the 3 degrees and then the voltage will have 2mV change. 
 So you can accurately achieve the effect of voltage with small changes. 
-And it is easy to be connected to Arduino or DFRduino with our sensor expansion board. 
+And it is easy to be connected to Arduino. 
 
 ### Specification
 
@@ -16,17 +16,16 @@ And it is easy to be connected to Arduino or DFRduino with our sensor expansion 
 * Operating Voltage: +3.3-5V DC
 * Signal Type: analog signal
 * Size: 50x22mm
-* Tnterface Mode: Gravity interface (PH2.0-3)
 * Rotation Angle: 3600 degrees
 * Weight: 20g
 
 ### Pin Definition
-
+![](http://www.baidu.com/img/bdlogo.gif)  
 
 
 ### Tutorial
 
-In this tutorial we rotate the Analog Rotation Sensor to output the analog voltage value in the serial port.
+> In this tutorial we rotate the Analog Rotation Sensor to output the analog voltage value in the serial port.
 
 #### Requirements
 

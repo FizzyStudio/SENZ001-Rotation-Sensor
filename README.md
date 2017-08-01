@@ -9,13 +9,13 @@
 
 ### Specification
 
-    Arduino compatible
-    Operating Voltage: +3.3-5V DC
-    Signal Type: analog signal
-    Size: 50x22mm
-    Tnterface Mode: Gravity interface (PH2.0-3)
-    Rotation Angle: 3600 degrees
-    Weight: 20g
+    * Arduino compatible
+    * Operating Voltage: +3.3-5V DC
+    * Signal Type: analog signal
+    * Size: 50x22mm
+    * Tnterface Mode: Gravity interface (PH2.0-3)
+    * Rotation Angle: 3600 degrees
+    * Weight: 20g
 
 
 ### Pin Definition

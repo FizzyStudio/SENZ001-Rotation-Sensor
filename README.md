@@ -3,6 +3,8 @@
 
 ### Introduction
 
+![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001.jpg) 
+
 > SENZ001 Rotation Sensor is arduino compatible multi-ring rotation analog sensor. 
 It is based on multi-turn precision potentiometer. It can rotate upto 10 laps. 
 If the sensor input 5V voltage power, then the 5000mV will be divided into 3600 portions(10 laps). 
@@ -20,7 +22,7 @@ And it is easy to be connected to Arduino.
 * Weight: 20g
 
 ### Pin Definition
-![](http://www.baidu.com/img/bdlogo.gif)  
+![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_pin.png)  
 
 
 ### Tutorial
@@ -37,7 +39,7 @@ And it is easy to be connected to Arduino.
 
 
 #### Connection Diagram
-
+![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_Connection.png) 
 
 
 #### Sample Code
@@ -77,7 +79,7 @@ And it is easy to be connected to Arduino.
 
 
 ### Dimension Diagram
-
+![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_Dimension.png) 
 
 
 

@@ -1,8 +1,13 @@
 # SENZ001 模拟多圈旋转角度传感器
 
-### 产品介绍
+###### Translation
+
+[For English, please click here.](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README.md)
+[For Chinese, please click here.](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README_cn.md)
 
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001.jpg "SENZ001") 
+
+### 产品介绍
 
 > SENZ001 模拟多圈旋转角度传感器是一个Arduino兼容的多圈高精度模拟角度传感器。它基于一个高精度的电位器，可旋转十圈,如果给此传感器输入5V电压供电，这样就是5000mV被分成了3600份（10圈）.这样你旋转3度就可以调节2mV的电压变化,这样就可以精确地实现角度微小变化的互动效果。同时它可以很方便的通过传感器扩展版连接到您的Arduino板。
  
@@ -71,8 +76,7 @@
 
 
 ### 结构图
+
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001_Dimension.png "Dimension") 
-
-
 
 ### 更多

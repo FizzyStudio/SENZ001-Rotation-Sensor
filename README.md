@@ -1,9 +1,13 @@
 # SENZ001 Rotation Sensor
 
+###### Translation
 
-### Introduction
+[For English, please click here.](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README.md)
+[For Chinese, please click here.](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/README_cn.md)
 
 ![](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor/blob/master/pic/SENZ001.jpg "SENZ001") 
+
+### Introduction
 
 > SENZ001 Rotation Sensor is arduino compatible multi-ring rotation analog sensor. 
 It is based on multi-turn precision potentiometer. It can rotate upto 10 laps. 

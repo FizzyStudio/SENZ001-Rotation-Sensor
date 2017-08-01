@@ -1,4 +1,4 @@
-# SENZ001-Rotation-Sensor
+# SENZ001 Rotation Sensor
 
 
 ### Introduction
